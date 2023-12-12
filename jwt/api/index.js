@@ -1,6 +1,6 @@
 const express = require("express");
 const app = express();
-const jwt=require("jsonwebtoken");  //import jsonwebtoken😌
+const jwt=require("jsonwebtoken");  //import jsonwebtoken😌🐧
 app.use(express.json());
 const users=[
 
